@@ -1,0 +1,80 @@
+[
+	{
+		"name": "Auvergne-Rhône-Alpes",
+		"code": "FR-A",
+		"subdivision": "Metropolitan region",
+		"native": "Auvergne-Rhône-Alpes"
+	},
+	{
+		"name": "Bourgogne-Franche-Comté",
+		"code": "FR-B",
+		"subdivision": "Metropolitan region",
+		"native": "Bourgogne-Franche-Comté"
+	},
+	{
+		"name": "Bretagne",
+		"code": "FR-C",
+		"subdivision": "Metropolitan region",
+		"native": "Bretagne"
+	},
+	{
+		"name": "Centre-Val de Loire",
+		"code": "FR-D",
+		"subdivision": "Metropolitan region",
+		"native": "Centre-Val de Loire"
+	},
+	{
+		"name": "Corse",
+		"code": "FR-E",
+		"subdivision": "Metropolitan region",
+		"native": "Corse"
+	},
+	{
+		"name": "Grand Est",
+		"code": "FR-F",
+		"subdivision": "Metropolitan region",
+		"native": "Grand Est"
+	},
+	{
+		"name": "Hauts-de-France",
+		"code": "FR-G",
+		"subdivision": "Metropolitan region",
+		"native": "Hauts-de-France"
+	},
+	{
+		"name": "Île-de-France",
+		"code": "FR-H",
+		"subdivision": "Metropolitan region",
+		"native": "Île-de-France"
+	},
+	{
+		"name": "Normandie",
+		"code": "FR-I",
+		"subdivision": "Metropolitan region",
+		"native": "Normandie"
+	},
+	{
+		"name": "Nouvelle-Aquitaine",
+		"code": "FR-J",
+		"subdivision": "Metropolitan region",
+		"native": "Nouvelle-Aquitaine"
+	},
+	{
+		"name": "Occitanie",
+		"code": "FR-K",
+		"subdivision": "Metropolitan region",
+		"native": "Occitanie"
+	},
+		{
+		"name": "Pays de la Loire",
+		"code": "FR-L",
+		"subdivision": "Metropolitan region",
+		"native": "Pays de la Loire"
+	},
+	{
+		"name": "Provence-Alpes-Côte d'Azur",
+		"code": "FR-M",
+		"subdivision": "Metropolitan region",
+		"native": "Provence-Alpes-Côte d'Azur"
+	}
+]
